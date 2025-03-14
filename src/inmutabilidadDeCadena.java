@@ -7,5 +7,8 @@ public class inmutabilidadDeCadena {
         cadena2 = cadena1;//reasignando variable
         System.out.println("cadena = " + cadena2);
 
+
+
+
     }
 }
